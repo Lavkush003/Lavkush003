@@ -1,7 +1,7 @@
 
 # 💫 Hi 👋, I'm Lavkush Nishad
 
-### 🚀 Aspiring Software Engineer | Full Stack Developer | Android Developer |  Aspiring Software Engineer from India
+### 🚀 Aspiring Software Developer | Full Stack Developer | Android Developer |  Aspiring Software Engineer from India
 
 I am a Computer Science student passionate about building scalable web applications, AI-powered solutions, and solving problems using Data Structures & Algorithms.
 

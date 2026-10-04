@@ -44,13 +44,7 @@ I am a Computer Science student passionate about building scalable web applicati
 
 ## 💻 LeetCode
 
-<p align="center">
-  <img src="https://github-readme-leetcode-stats.vercel.app/api/card" alt="LeetCode Stats" />
-</p>
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/Lavkush_Nishad-003?theme=dark)](https://leetcode.com/u/Lavkush_Nishad-003/)
 
-<p align="center">
-  <a href="https://leetcode.com/u/Lavkush_Nishad-003/">
-    🔗 LeetCode Profile
-  </a>
-</p>
+[![LeetCode Submissions](https://leetcode-stats-six.vercel.app/Lavkush_Nishad-003/graph?theme=dark)](https://leetcode.com/u/Lavkush_Nishad-003/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,12 +1,12 @@
 
 # 💫 Hi 👋, I'm Lavkush Nishad
 
-### 🚀 Software Engineer | Full Stack Developer | AI & Cloud Enthusiast from India
+### 🚀 Aspiring Software Engineer | Full Stack Developer | Android Developer |  Aspiring Software Engineer from India
 
 I am a Computer Science student passionate about building scalable web applications, AI-powered solutions, and solving problems using Data Structures & Algorithms.
 
 - 🔭 **I'm currently working on:** 🌾 Farming-AI-Assistance — an AI-powered agriculture platform using MERN stack and RAG
-- 🌱 **I'm currently learning:** Advanced DSA, Full Stack Development, Cloud Computing & Agentic AI
+- 🌱 **I'm currently learning:** Advanced DSA, Full Stack Development, Android Development & Agentic AI
 - 👯 **I'm looking to collaborate on:** Full Stack, AI/ML, RAG-based and Open Source projects
 - 🤝 **I'm looking for help with:** Building scalable and production-ready applications
 - 💬 **Ask me about:** React, Node.js, Express.js, MongoDB, Java, C++, Python, SQL & DSA
@@ -39,5 +39,9 @@ I am a Computer Science student passionate about building scalable web applicati
 
 ---
 [![](https://komarev.com/ghpvc/?username=Lavkush003&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 💻 LeetCode
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Lavkush__Nishad--003-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Lavkush_Nishad-003/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

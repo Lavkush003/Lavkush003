@@ -44,14 +44,13 @@ I am a Computer Science student passionate about building scalable web applicati
 
 ## 💻 LeetCode
 
-
 <p align="center">
-  <img src="https://YOUR-VERCEL-APP.vercel.app/api/card" />
+  <img src="https://github-readme-leetcode-stats.vercel.app/api/card" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/Lavkush_Nishad-003/">
-    🔗LeetCode Profile
+    🔗 LeetCode Profile
   </a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

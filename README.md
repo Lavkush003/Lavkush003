@@ -40,8 +40,12 @@ I am a Computer Science student passionate about building scalable web applicati
 ---
 [![](https://komarev.com/ghpvc/?username=Lavkush003&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
 ## 💻 LeetCode
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Lavkush__Nishad--003-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Lavkush_Nishad-003/)
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/Lavkush_Nishad-003?theme=dark)](https://leetcode.com/u/Lavkush_Nishad-003/)
+
+[![LeetCode Submissions](https://leetcode-stats-six.vercel.app/Lavkush_Nishad-003/graph?theme=dark)](https://leetcode.com/u/Lavkush_Nishad-003/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
